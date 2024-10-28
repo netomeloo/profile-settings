@@ -2,7 +2,7 @@
 
 Este projeto é uma interface de configurações de perfil, construída com HTML5 e CSS3. Ele permite que os usuários visualizem e editem suas informações de perfil de forma organizada e intuitiva.
 
-Tecnologias Utilizadas
+<span>Tecnologias Utilizadas<span/>
 
 HTML5: Para estruturar o conteúdo da página.
 CSS3: Para estilização e layout responsivo.
