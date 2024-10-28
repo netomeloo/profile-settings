@@ -1,4 +1,4 @@
-Profile Settings
+<h1>Profile Settings</h1>
 
 Este projeto é uma interface de configurações de perfil, construída com HTML5 e CSS3. Ele permite que os usuários visualizem e editem suas informações de perfil de forma organizada e intuitiva.
 
